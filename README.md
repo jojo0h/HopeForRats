@@ -1,4 +1,4 @@
-# HopeForRats
+# Hope For Rats
 <쥐들에게 희망을> 랜덤 액세스전  Vol. 7 오주영 《주사위 게임》
 
 
