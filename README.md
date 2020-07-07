@@ -21,3 +21,7 @@ Sound: The Cinematic Ochestra - Man with the movie camera
 
 Special Thanks to- javanie.studio@gmail.com
 
+
+<blockquote class="embedly-card" data-card-key="bb136f3b86be4976b6635a2eb2f9510c" data-card-type="article-full"><h4><a href="https://jojo0h.github.io/">Hope For Rats</a></h4>><p><쥐들에게 희망을> 랜덤 액세스전 Vol. 7 오주영 《주사위 게임》</p></blockquote><img width="" height="" class="size-full wp-image-36712"  src="https://github.com/jojo0h/jojo0h.github.io/blob/master/rat.jpg" />
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
