@@ -2,6 +2,10 @@
 <쥐들에게 희망을> 랜덤 액세스전  Vol. 7 오주영 《주사위 게임》
 
 
+비디오 게임, 게임 컨트롤러, 빙고 게임판, 백남준아트센터 커미션</div>
+<div id="attachment_36712" style="width: 695px" class="wp-caption alignleft"><img width="685" height="331" class="size-full wp-image-36712" alt="〈쥐들에게 희망을〉" src="http://njp.ggcf.kr/wp-content/uploads/sites/5/2020/05/-희망을-이미지-e1589343113423.jpg" /><p class="wp-caption-text">〈쥐들에게 희망을〉</p></div><br />
+
+
 Exhibition info:
 이 게임은 2020 백남준아트센터 랜덤 액세스전의 커미션을 받아 제작되었습니다.
 
