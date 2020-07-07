@@ -21,7 +21,7 @@ Special Thanks to- javanie.studio@gmail.com
 
 
 <blockquote class="embedly-card" data-card-key="bb136f3b86be4976b6635a2eb2f9510c" data-card-type="article-full"><h4><a href="https://jojo0h.github.io/">HopeForRats</a></h4><p><p><</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script><img width="" height="" class="size-full wp-image-36712"  src="https://github.com/jojo0h/jojo0h.github.io/blob/master/rat.jpg" />
+
 
 
 
